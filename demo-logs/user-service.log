@@ -1,0 +1,2 @@
+{"timestamp": "2026-09-03T10:30:46Z", "service": "user-service", "sql_query": "SELECT * FROM users WHERE id=123"}
+{"timestamp": "2026-09-03T10:30:50Z", "service": "user-service", "http_call": "GET http://cache-service:6379/user:123"}

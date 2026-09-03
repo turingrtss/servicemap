@@ -1,0 +1,4 @@
+{"timestamp": "2026-09-03T10:30:45Z", "service": "api-gateway", "http_call": "POST http://auth-service:8080/verify"}
+{"timestamp": "2026-09-03T10:30:46Z", "service": "api-gateway", "http_call": "GET http://user-service:3000/users/123"}
+{"timestamp": "2026-09-03T10:30:47Z", "service": "api-gateway", "http_call": "POST http://order-service:8000/orders"}
+{"timestamp": "2026-09-03T10:30:48Z", "service": "api-gateway", "http_call": "GET http://payment-service:5000/balance"}
